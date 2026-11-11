@@ -1,0 +1,6 @@
+{
+  "name": "ScaffoldShare IMS",
+  "description": "Enterprise construction asset management platform for scaffolding multi-company inventory, QR code tracking, rental lifecycle, revenue sharing, and AI forecasts in the Philippines.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
